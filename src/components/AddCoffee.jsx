@@ -33,7 +33,7 @@ const AddCoffee = () => {
             console.log(data);
             Swal.fire({
                 title: 'Success!',
-                text: 'User Added Successfully',
+                text: 'coffee Added Successfully',
                 icon: 'success',
                 confirmButtonText: 'Cool'
               })
